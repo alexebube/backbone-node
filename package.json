@@ -1,0 +1,9 @@
+{
+	"name": "backbone-people-app",
+	"version": "0.0.1",
+	"description": "A simple people application using Backbone",
+	"dependencies": {
+		"express": "*",
+		"path": "*"
+	}
+}
